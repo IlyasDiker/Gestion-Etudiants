@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Gestion Etudiants</string>
+
+    <string-array name="Branches_name">
+        <item>TDI</item>
+        <item>TDM</item>
+        <item>TRI</item>
+    </string-array>
+
+    <string-array name="group_name">
+        <item>201</item>
+        <item>202</item>
+        <item>203</item>
+        <item>204</item>
+        <item>205</item>
+    </string-array>
+    <string-array name="mois">
+        <item>Mois</item>
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+        <item>04</item>
+        <item>05</item>
+        <item>06</item>
+        <item>07</item>
+        <item>08</item>
+        <item>09</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+</resources>
