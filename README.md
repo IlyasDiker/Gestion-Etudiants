@@ -27,6 +27,10 @@ Gestion Étudiante est une application qui permet à l'utilisateur d'ajouter des
 
 <img src="https://i.imgur.com/10ofPd9.png" style="zoom:50%;" />
 
+Created By [Ilyas BENHSSINE](https://github.com/IlyasDiker) & [Saad Kardoudi](https://github.com/Saad-kardoudi)
+
+Made with Love ❤.
+
 ## License
 
 --------------------
