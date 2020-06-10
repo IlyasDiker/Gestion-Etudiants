@@ -1,5 +1,7 @@
-# Gestion-Etudiants
-![](https://i.imgur.com/coQDZic.png)
+<h1 align="center">Gestion-Etudiants</h1>
+<p align="center">
+  <img src="https://i.imgur.com/coQDZic.png">
+</p>
 
 Gestion Étudiante est une application qui permet à l'utilisateur d'ajouter des utilisateurs et leur donee des absences, et chercher les absences de l'utilisateur par mois, toutes les donnes sont stockées dans une base de donee SQLite.
 
