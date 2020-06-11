@@ -1,6 +1,6 @@
 <h1 align="center">Gestion-Etudiants</h1>
 <p align="center">
-  <img src="https://i.imgur.com/coQDZic.png"><br>
+  <img src="https://i.imgur.com/coQDZic.png"><br><br>
   <img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues-raw/IlyasDiker/Gestion-Etudiants">
   <img alt="V1.0" src="https://img.shields.io/badge/Version-1.0-red">
 </p>
