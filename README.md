@@ -1,6 +1,8 @@
 <h1 align="center">Gestion-Etudiants</h1>
 <p align="center">
-  <img src="https://i.imgur.com/coQDZic.png">
+  <img src="https://i.imgur.com/coQDZic.png"><br>
+  <img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues-raw/IlyasDiker/Gestion-Etudiants">
+  <img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/IlyasDiker/Gestion-Etudiants">
 </p>
 
 Gestion Étudiante est une application qui permet à l'utilisateur d'ajouter des utilisateurs et leur donee des absences, et chercher les absences de l'utilisateur par mois, toutes les donnes sont stockées dans une base de donee SQLite.
